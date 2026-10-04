@@ -1,5 +1,13 @@
 # 💫 About Me:
-- 🎨 Frontend engineer focused on building fast, polished, user-friendly interfaces<br>- ⚛️ Deep into React and Next.js, from component architecture to rendering strategies<br>- 🟦 TypeScript-first: type-safe code that's easier to scale and maintain<br>- 💅 Tailwind CSS for clean, consistent, responsive design systems<br>- ♿ I care about accessibility, performance, and the details users actually feel<br>- 🔐 Comfortable wiring up auth (Clerk) and data (Prisma) when a UI needs them<br>- 🌍 Building multilingual, RTL-ready apps with i18n<br>- 📝 Sharing what I learn through posts and educational content for developers<br>- 🚀 Currently going deeper into frontend craft and advanced UI engineering
+🎨 Frontend engineer focused on building fast, polished, user-friendly interfaces
+- ⚛️ Deep into React and Next.js, from component architecture to rendering strategies
+- 🟦 TypeScript-first: type-safe code that's easier to scale and maintain
+- 💅 Tailwind CSS for clean, consistent, responsive design systems
+- ♿ I care about accessibility, performance, and the details users actually feel
+- 🔐 Comfortable wiring up auth (Clerk) and data (Prisma) when a UI needs them
+- 🌍 Building multilingual, RTL-ready apps with i18n
+- 📝 Sharing what I learn through posts and educational content for developers
+- 🚀 Currently going deeper into frontend craft and advanced UI engineering
 
 
 ## 🌐 Socials:
